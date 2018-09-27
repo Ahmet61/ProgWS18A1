@@ -1,5 +1,5 @@
 package de.ostfalia.prog.ws18;
 
-public class HeilFeld {
+public class HeilFeld extends Feld{
 
 }

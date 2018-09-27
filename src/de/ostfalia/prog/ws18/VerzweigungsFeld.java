@@ -1,5 +1,5 @@
 package de.ostfalia.prog.ws18;
 
-public class VerzweigungsFeld {
+public class VerzweigungsFeld extends Feld{
 
 }
